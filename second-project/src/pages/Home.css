@@ -1,0 +1,14 @@
+.homeconatiner{
+    display: flex;
+    
+}
+.homeprofileRight{
+    flex: 9;
+    margin-bottom: 20px;
+}
+
+.homeprofilerightbottom{
+    display: flex;
+    margin-top: 60px;
+
+}

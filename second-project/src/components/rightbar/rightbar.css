@@ -1,0 +1,48 @@
+.rightbarcontainer{
+    flex: 4;
+}
+.rightbarwrapper{
+    padding: 20px 20px 0 0;
+}
+.giftcontainer{
+    display: flex;
+    align-items: center;
+}
+.giftimage{
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+    background: none;
+}
+.gifttext{
+    font-size: 15px;
+    font-weight: 300;
+}
+.rightbaradd{
+    width: 100%;
+    border-radius: 10px;
+    margin: 30px 0;
+}
+.rightbarfriendsList{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+
+.rightbarTitle{
+    margin-bottom: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
